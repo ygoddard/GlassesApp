@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/carousel_2_Layout"
+                android:layout_width="@dimen/carousel_width"
+                android:layout_height="@dimen/carousel_height"
+                android:background="@android:color/transparent">
+
+    <RelativeLayout
+        android:id="@+id/carousel_2_items"
+        android:layout_width="190px"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:background="@android:color/transparent" >
+
+        <com.everysight.common.carouselm.CarouselItemView
+            android:id="@+id/carousel_2_left"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="5px"
+            android:background="@android:color/transparent"
+            android:src="@null" />
+
+        <com.everysight.common.carouselm.CarouselItemView
+            android:id="@+id/carousel_2_right"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5px"
+            android:layout_toRightOf="@+id/carousel_2_left"
+            android:background="@null"
+            android:src="@null" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/carousel_2_textLeft"
+        android:layout_width="@dimen/carousel_text_width"
+        android:layout_height="@dimen/carousel_text_height"
+        android:layout_alignLeft="@+id/carousel_2_items"
+        android:layout_below="@+id/carousel_2_items"
+        android:layout_marginTop="@dimen/carousel_text_marginTop"
+        android:background="@android:color/transparent"
+        android:ellipsize="end"
+        android:gravity="center|top"
+        android:maxLines="2"       
+        android:textSize="@dimen/carousel_text_size"
+        android:textStyle="bold" 
+        />
+
+    <TextView
+        android:id="@+id/carousel_2_textRight"
+        android:layout_width="@dimen/carousel_text_width"
+        android:layout_height="@dimen/carousel_text_height"
+        android:layout_alignRight="@+id/carousel_2_items"
+        android:layout_below="@+id/carousel_2_items"
+        android:layout_marginTop="@dimen/carousel_text_marginTop"
+        android:background="@android:color/transparent"
+        android:ellipsize="end"
+        android:gravity="center|top"
+        android:maxLines="2"        
+        android:textSize="@dimen/carousel_text_size"
+        android:textStyle="bold" 
+      />
+
+</RelativeLayout>

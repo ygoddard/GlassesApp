@@ -1,0 +1,31 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 22
+    buildToolsVersion "25.0.0"
+    defaultConfig {
+        applicationId 'sdk.everysight.examples.gps'
+        minSdkVersion 22
+        targetSdkVersion 22
+    }
+    buildTypes {
+        release {
+            minifyEnabled true
+            shrinkResources true
+        }
+    }
+    productFlavors {
+    }
+}
+
+repositories {
+    mavenCentral()
+    flatDir {
+        dirs '../../libs'
+    }
+}
+
+dependencies {
+    compile(name: 'evsBase', ext: 'aar')
+    compile(name: 'evsUICarousel', ext: 'aar')
+}

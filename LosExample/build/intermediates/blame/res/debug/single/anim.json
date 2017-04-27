@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\LosExample\\build\\intermediates\\res\\merged\\debug\\anim\\close_main.xml",
+        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\LosExample\\build\\intermediates\\exploded-aar\\evsBase\\res\\anim\\close_main.xml"
+    },
+    {
+        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\LosExample\\build\\intermediates\\res\\merged\\debug\\anim\\notification_system_icon_fade_in.xml",
+        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\LosExample\\build\\intermediates\\exploded-aar\\evsBase\\res\\anim\\notification_system_icon_fade_in.xml"
+    },
+    {
+        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\LosExample\\build\\intermediates\\res\\merged\\debug\\anim\\busy_anim.xml",
+        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\LosExample\\build\\intermediates\\exploded-aar\\evsBase\\res\\anim\\busy_anim.xml"
+    },
+    {
+        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\LosExample\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_anim.xml",
+        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\LosExample\\build\\intermediates\\exploded-aar\\evsBase\\res\\anim\\shrink_anim.xml"
+    },
+    {
+        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\LosExample\\build\\intermediates\\res\\merged\\debug\\anim\\notification_snapshot_repeat.xml",
+        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\LosExample\\build\\intermediates\\exploded-aar\\evsBase\\res\\anim\\notification_snapshot_repeat.xml"
+    },
+    {
+        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\LosExample\\build\\intermediates\\res\\merged\\debug\\anim\\notification_system_icon_fade_out.xml",
+        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\LosExample\\build\\intermediates\\exploded-aar\\evsBase\\res\\anim\\notification_system_icon_fade_out.xml"
+    },
+    {
+        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\LosExample\\build\\intermediates\\res\\merged\\debug\\anim\\notification_fade_repeat.xml",
+        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\LosExample\\build\\intermediates\\exploded-aar\\evsBase\\res\\anim\\notification_fade_repeat.xml"
+    },
+    {
+        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\LosExample\\build\\intermediates\\res\\merged\\debug\\anim\\enter_window_fade_in.xml",
+        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\LosExample\\build\\intermediates\\exploded-aar\\evsBase\\res\\anim\\enter_window_fade_in.xml"
+    },
+    {
+        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\LosExample\\build\\intermediates\\res\\merged\\debug\\anim\\blink_anim.xml",
+        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\LosExample\\build\\intermediates\\exploded-aar\\evsBase\\res\\anim\\blink_anim.xml"
+    },
+    {
+        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\LosExample\\build\\intermediates\\res\\merged\\debug\\anim\\exit_window_fade_out.xml",
+        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\LosExample\\build\\intermediates\\exploded-aar\\evsBase\\res\\anim\\exit_window_fade_out.xml"
+    },
+    {
+        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\LosExample\\build\\intermediates\\res\\merged\\debug\\anim\\open_next.xml",
+        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\LosExample\\build\\intermediates\\exploded-aar\\evsBase\\res\\anim\\open_next.xml"
+    }
+]

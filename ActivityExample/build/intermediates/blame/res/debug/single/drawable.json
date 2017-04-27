@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\ActivityExample\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_border.xml",
+        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\ActivityExample\\build\\intermediates\\exploded-aar\\evsBase\\res\\drawable\\menu_border.xml"
+    },
+    {
+        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\ActivityExample\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_prev.png",
+        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\ActivityExample\\src\\main\\res\\drawable\\ic_prev.png"
+    },
+    {
+        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\ActivityExample\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_border_top.xml",
+        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\ActivityExample\\build\\intermediates\\exploded-aar\\evsBase\\res\\drawable\\menu_border_top.xml"
+    },
+    {
+        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\ActivityExample\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_next.png",
+        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\ActivityExample\\src\\main\\res\\drawable\\ic_next.png"
+    },
+    {
+        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\ActivityExample\\build\\intermediates\\res\\merged\\debug\\drawable\\phone_disconnect.png",
+        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\ActivityExample\\build\\intermediates\\exploded-aar\\evsBase\\res\\drawable\\phone_disconnect.png"
+    },
+    {
+        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\ActivityExample\\build\\intermediates\\res\\merged\\debug\\drawable\\popup_action_button_icon_background.xml",
+        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\ActivityExample\\build\\intermediates\\exploded-aar\\evsBase\\res\\drawable\\popup_action_button_icon_background.xml"
+    },
+    {
+        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\ActivityExample\\build\\intermediates\\res\\merged\\debug\\drawable\\evs_custom_toast.xml",
+        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\ActivityExample\\build\\intermediates\\exploded-aar\\evsBase\\res\\drawable\\evs_custom_toast.xml"
+    },
+    {
+        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\ActivityExample\\build\\intermediates\\res\\merged\\debug\\drawable\\border_debug.xml",
+        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\ActivityExample\\build\\intermediates\\exploded-aar\\evsBase\\res\\drawable\\border_debug.xml"
+    },
+    {
+        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\ActivityExample\\build\\intermediates\\res\\merged\\debug\\drawable\\phone_connect.png",
+        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\ActivityExample\\build\\intermediates\\exploded-aar\\evsBase\\res\\drawable\\phone_connect.png"
+    },
+    {
+        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\ActivityExample\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_app_phone.png",
+        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\ActivityExample\\build\\intermediates\\exploded-aar\\evsBase\\res\\drawable\\ic_app_phone.png"
+    },
+    {
+        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\ActivityExample\\build\\intermediates\\res\\merged\\debug\\drawable\\border_production.xml",
+        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\ActivityExample\\build\\intermediates\\exploded-aar\\evsBase\\res\\drawable\\border_production.xml"
+    },
+    {
+        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\ActivityExample\\build\\intermediates\\res\\merged\\debug\\drawable\\busy_image3.png",
+        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\ActivityExample\\build\\intermediates\\exploded-aar\\evsBase\\res\\drawable\\busy_image3.png"
+    },
+    {
+        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\ActivityExample\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\ActivityExample\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\ActivityExample\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_apps.png",
+        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\ActivityExample\\build\\intermediates\\exploded-aar\\evsBase\\res\\drawable\\ic_apps.png"
+    }
+]

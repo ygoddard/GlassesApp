@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\LosExample\\build\\intermediates\\res\\merged\\debug\\layout\\vg_base_activity_layout.xml",
+        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\LosExample\\build\\intermediates\\exploded-aar\\evsBase\\res\\layout\\vg_base_activity_layout.xml"
+    },
+    {
+        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\LosExample\\build\\intermediates\\res\\merged\\debug\\layout\\activity_layout.xml",
+        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\LosExample\\src\\main\\res\\layout\\activity_layout.xml"
+    },
+    {
+        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\LosExample\\build\\intermediates\\res\\merged\\debug\\layout\\evs_toast_layout.xml",
+        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\LosExample\\build\\intermediates\\exploded-aar\\evsBase\\res\\layout\\evs_toast_layout.xml"
+    },
+    {
+        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\LosExample\\build\\intermediates\\res\\merged\\debug\\layout\\busy_layout.xml",
+        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\LosExample\\build\\intermediates\\exploded-aar\\evsBase\\res\\layout\\busy_layout.xml"
+    },
+    {
+        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\LosExample\\build\\intermediates\\res\\merged\\debug\\layout\\window_container.xml",
+        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\LosExample\\build\\intermediates\\exploded-aar\\evsBase\\res\\layout\\window_container.xml"
+    }
+]

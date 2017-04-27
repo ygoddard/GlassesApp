@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/carousel_5_Layout"
+                android:layout_width="@dimen/carousel_width"
+                android:layout_height="@dimen/carousel_height"
+                android:background="@android:color/transparent">
+
+    <com.everysight.common.carouselm.CarouselItemView
+        android:id="@+id/carousel_5_centerApp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:background="@android:color/transparent"
+        android:src="@null" />
+
+    <com.everysight.common.carouselm.CarouselItemView
+        android:id="@+id/carousel_5_firstLeftApp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="0px"
+        android:layout_toLeftOf="@+id/carousel_5_centerApp"
+        android:background="@android:color/transparent"
+        android:src="@null" />
+
+    <com.everysight.common.carouselm.CarouselItemView
+        android:id="@+id/carousel_5_firstRightApp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="0px"
+        android:layout_toRightOf="@+id/carousel_5_centerApp"
+        android:background="@android:color/transparent"
+        android:src="@null" />
+
+    <com.everysight.common.carouselm.CarouselItemView
+        android:id="@+id/carousel_5_borderLeftApp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="0px"
+        android:layout_toLeftOf="@+id/carousel_5_firstLeftApp"
+        android:background="@android:color/transparent"
+        android:src="@null" />
+
+    <com.everysight.common.carouselm.CarouselItemView
+        android:id="@+id/carousel_5_borderRightApp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="0px"
+        android:layout_toRightOf="@+id/carousel_5_firstRightApp"
+        android:background="@android:color/transparent"
+        android:src="@null" />
+
+    <com.everysight.common.carouselm.CarouselItemView
+        android:id="@+id/carousel_5_newApp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/carousel_5_borderLeftApp"
+        android:layout_alignTop="@+id/carousel_5_borderLeftApp"
+        android:layout_centerVertical="true"
+        android:background="@android:color/transparent"
+        android:src="@null" />
+
+    <TextView
+        android:id="@+id/carousel_5_textCenter"
+        android:layout_width="@dimen/carousel_text_width"
+        android:layout_height="@dimen/carousel_text_height"
+        android:layout_below="@+id/carousel_5_centerApp"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="@dimen/carousel_text_marginTop"
+        android:background="@android:color/transparent"
+        android:ellipsize="end"
+        android:gravity="center|top"
+        android:maxLines="2"
+        android:textSize="@dimen/carousel_text_size"
+        android:textStyle="bold"
+     />
+
+    <ImageView
+        android:id="@+id/carousel_5_selectionMark"
+        android:layout_width="90px"
+        android:layout_height="90px"
+        android:layout_alignBottom="@+id/carousel_5_centerApp"
+        android:layout_alignRight="@+id/carousel_5_centerApp"
+        android:background="@android:color/transparent"
+        android:src="@drawable/ic_selection_mark"
+        android:visibility="gone" />
+
+</RelativeLayout>

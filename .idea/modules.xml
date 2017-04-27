@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ActivityExample/ActivityExample.iml" filepath="$PROJECT_DIR$/ActivityExample/ActivityExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CameraExample/CameraExample.iml" filepath="$PROJECT_DIR$/CameraExample/CameraExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GPS_Example/GPS_Example.iml" filepath="$PROJECT_DIR$/GPS_Example/GPS_Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LosExample/LosExample.iml" filepath="$PROJECT_DIR$/LosExample/LosExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openCVLibrary320/openCVLibrary320.iml" filepath="$PROJECT_DIR$/openCVLibrary320/openCVLibrary320.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samples.iml" filepath="$PROJECT_DIR$/samples.iml" />
+    </modules>
+  </component>
+</project>

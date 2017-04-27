@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\GPS_Example\\build\\intermediates\\res\\merged\\debug\\layout\\carousel_1.xml",
+        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\GPS_Example\\build\\intermediates\\exploded-aar\\evsUICarousel\\res\\layout\\carousel_1.xml"
+    },
+    {
+        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\GPS_Example\\build\\intermediates\\res\\merged\\debug\\layout\\carousel_5.xml",
+        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\GPS_Example\\build\\intermediates\\exploded-aar\\evsUICarousel\\res\\layout\\carousel_5.xml"
+    },
+    {
+        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\GPS_Example\\build\\intermediates\\res\\merged\\debug\\layout\\carousel_0.xml",
+        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\GPS_Example\\build\\intermediates\\exploded-aar\\evsUICarousel\\res\\layout\\carousel_0.xml"
+    },
+    {
+        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\GPS_Example\\build\\intermediates\\res\\merged\\debug\\layout\\carousel_2.xml",
+        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\GPS_Example\\build\\intermediates\\exploded-aar\\evsUICarousel\\res\\layout\\carousel_2.xml"
+    },
+    {
+        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\GPS_Example\\build\\intermediates\\res\\merged\\debug\\layout\\carousel_item.xml",
+        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\GPS_Example\\build\\intermediates\\exploded-aar\\evsUICarousel\\res\\layout\\carousel_item.xml"
+    },
+    {
+        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\GPS_Example\\build\\intermediates\\res\\merged\\debug\\layout\\window_container.xml",
+        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\GPS_Example\\build\\intermediates\\exploded-aar\\evsBase\\res\\layout\\window_container.xml"
+    },
+    {
+        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\GPS_Example\\build\\intermediates\\res\\merged\\debug\\layout\\activity_layout.xml",
+        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\GPS_Example\\src\\main\\res\\layout\\activity_layout.xml"
+    },
+    {
+        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\GPS_Example\\build\\intermediates\\res\\merged\\debug\\layout\\busy_layout.xml",
+        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\GPS_Example\\build\\intermediates\\exploded-aar\\evsBase\\res\\layout\\busy_layout.xml"
+    },
+    {
+        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\GPS_Example\\build\\intermediates\\res\\merged\\debug\\layout\\vg_base_activity_layout.xml",
+        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\GPS_Example\\build\\intermediates\\exploded-aar\\evsBase\\res\\layout\\vg_base_activity_layout.xml"
+    },
+    {
+        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\GPS_Example\\build\\intermediates\\res\\merged\\debug\\layout\\carouselx.xml",
+        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\GPS_Example\\build\\intermediates\\exploded-aar\\evsUICarousel\\res\\layout\\carouselx.xml"
+    },
+    {
+        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\GPS_Example\\build\\intermediates\\res\\merged\\debug\\layout\\carousel_item_multiple.xml",
+        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\GPS_Example\\build\\intermediates\\exploded-aar\\evsUICarousel\\res\\layout\\carousel_item_multiple.xml"
+    },
+    {
+        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\GPS_Example\\build\\intermediates\\res\\merged\\debug\\layout\\evs_toast_layout.xml",
+        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\GPS_Example\\build\\intermediates\\exploded-aar\\evsBase\\res\\layout\\evs_toast_layout.xml"
+    }
+]

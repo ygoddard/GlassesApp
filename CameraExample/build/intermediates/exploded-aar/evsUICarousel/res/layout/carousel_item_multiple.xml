@@ -1,0 +1,39 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:background="@android:color/transparent"
+              android:orientation="vertical" >
+
+    <!-- layout_height="wrap_content = It can be with notification counter or without it. -->
+    <!-- The height can be 124px with the item top or 90px without it. -->
+
+    <TextView
+        android:id="@+id/carousel_item_top"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:background="@android:color/transparent"
+        android:gravity="center"
+        android:textColor="@android:color/holo_green_light"
+        android:textSize="20px"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/carousel_item_main"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:background="@android:color/transparent"
+        android:src="@null" />
+
+    <TextView
+        android:id="@+id/carousel_item_bottom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:background="#000000"
+        android:gravity="center"
+        android:textColor="@android:color/holo_green_light"
+        android:textSize="20px" />
+
+</LinearLayout>

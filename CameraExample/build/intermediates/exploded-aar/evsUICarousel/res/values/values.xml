@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gradient_end">#6DB34F</color>
+    <color name="gradient_start">#AFD138</color>
+    <dimen name="carousel_height">270px</dimen>
+    <dimen name="carousel_item_bottom_text_height">50px</dimen>
+    <dimen name="carousel_text_height">70px</dimen>
+    <dimen name="carousel_text_marginTop">15px</dimen>
+    <dimen name="carousel_text_size">28px</dimen>
+    <dimen name="carousel_text_width">200px</dimen>
+    <dimen name="carousel_width">450px</dimen>
+    <item name="textCenter_nextApplicationText" type="id"/>
+    <string name="app_name">Carousel</string>
+    <string name="hello_world">Converting</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

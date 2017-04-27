@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\ActivityExample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\popup_more_actions_indicator.png",
+        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\ActivityExample\\build\\intermediates\\exploded-aar\\evsBase\\res\\drawable-mdpi-v4\\popup_more_actions_indicator.png"
+    },
+    {
+        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\ActivityExample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_system_ring.png",
+        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\ActivityExample\\build\\intermediates\\exploded-aar\\evsBase\\res\\drawable-mdpi-v4\\notification_system_ring.png"
+    },
+    {
+        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\ActivityExample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\borderedbackground.xml",
+        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\ActivityExample\\build\\intermediates\\exploded-aar\\evsBase\\res\\drawable-mdpi-v4\\borderedbackground.xml"
+    },
+    {
+        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\ActivityExample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\controller_selector.xml",
+        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\ActivityExample\\build\\intermediates\\exploded-aar\\evsBase\\res\\drawable-mdpi-v4\\controller_selector.xml"
+    },
+    {
+        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\ActivityExample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\color.xml",
+        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\ActivityExample\\build\\intermediates\\exploded-aar\\evsBase\\res\\drawable-mdpi-v4\\color.xml"
+    },
+    {
+        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\ActivityExample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_sms.png",
+        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\ActivityExample\\build\\intermediates\\exploded-aar\\evsBase\\res\\drawable-mdpi-v4\\ic_sms.png"
+    },
+    {
+        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\ActivityExample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_avatar.png",
+        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\ActivityExample\\build\\intermediates\\exploded-aar\\evsBase\\res\\drawable-mdpi-v4\\icon_avatar.png"
+    },
+    {
+        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\ActivityExample\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\popups_loading_indicator_gradient.png",
+        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\ActivityExample\\build\\intermediates\\exploded-aar\\evsBase\\res\\drawable-mdpi-v4\\popups_loading_indicator_gradient.png"
+    }
+]

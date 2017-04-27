@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="evsBase-">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ActivityExample/build/intermediates/exploded-aar/evsBase/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/ActivityExample/build/intermediates/exploded-aar/evsBase/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

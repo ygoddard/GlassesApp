@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\android_work\project\ver1\jovisleetechnion-everysightsamples-ef77ff622a4a\glasses\samples\GPS_Example\build\intermediates\exploded-aar\evsBase\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a482d965feb59c295eb8a26cd5ec02d6ff91ed4a">
+        <dex dex="C:\android_work\project\ver1\jovisleetechnion-everysightsamples-ef77ff622a4a\glasses\samples\GPS_Example\build\intermediates\pre-dexed\debug\intermediates-exploded-aar-evsBase_a18e297d4d957b58570201c6777ab1df32ee0729.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\android_work\project\ver1\jovisleetechnion-everysightsamples-ef77ff622a4a\glasses\samples\GPS_Example\build\intermediates\exploded-aar\evsUICarousel\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7962b27b30b4ed2f6c7d968df29820910f94d5b2">
+        <dex dex="C:\android_work\project\ver1\jovisleetechnion-everysightsamples-ef77ff622a4a\glasses\samples\GPS_Example\build\intermediates\pre-dexed\debug\intermediates-exploded-aar-evsUICarousel_37ef6eed21a6084837b3820c04becaf010c047f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\android_work\project\ver1\jovisleetechnion-everysightsamples-ef77ff622a4a\glasses\samples\CameraExample\build\intermediates\exploded-aar\evsBase\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a482d965feb59c295eb8a26cd5ec02d6ff91ed4a">
+        <dex dex="C:\android_work\project\ver1\jovisleetechnion-everysightsamples-ef77ff622a4a\glasses\samples\CameraExample\build\intermediates\pre-dexed\debug\intermediates-exploded-aar-evsBase_0638a123f33a70cf9c81e47cb16112866ab7dc7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\android_work\project\ver1\jovisleetechnion-everysightsamples-ef77ff622a4a\glasses\samples\ActivityExample\build\intermediates\exploded-aar\evsBase\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a482d965feb59c295eb8a26cd5ec02d6ff91ed4a">
+        <dex dex="C:\android_work\project\ver1\jovisleetechnion-everysightsamples-ef77ff622a4a\glasses\samples\ActivityExample\build\intermediates\pre-dexed\debug\intermediates-exploded-aar-evsBase_f000844d432552857de863c7d4a1f0033e27e51d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\android_work\project\ver1\jovisleetechnion-everysightsamples-ef77ff622a4a\glasses\samples\CameraExample\build\intermediates\exploded-aar\evsUICarousel\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7962b27b30b4ed2f6c7d968df29820910f94d5b2">
+        <dex dex="C:\android_work\project\ver1\jovisleetechnion-everysightsamples-ef77ff622a4a\glasses\samples\CameraExample\build\intermediates\pre-dexed\debug\intermediates-exploded-aar-evsUICarousel_1fbdfa35e8cc7b737d9594708f3bcefd0d24fb33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\android_work\project\ver1\jovisleetechnion-everysightsamples-ef77ff622a4a\glasses\samples\LosExample\build\intermediates\exploded-aar\evsBase\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a482d965feb59c295eb8a26cd5ec02d6ff91ed4a">
+        <dex dex="C:\android_work\project\ver1\jovisleetechnion-everysightsamples-ef77ff622a4a\glasses\samples\LosExample\build\intermediates\pre-dexed\debug\intermediates-exploded-aar-evsBase_8721c5a4e7001f98035bd8fcd2fd3b8c13ccf054.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\android_work\project\ver1\jovisleetechnion-everysightsamples-ef77ff622a4a\glasses\samples\CameraExample\build\intermediates\exploded-aar\samples\openCVLibrary320\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="038e8806866760ccd8568b401b8052e937e4be1a">
+        <dex dex="C:\android_work\project\ver1\jovisleetechnion-everysightsamples-ef77ff622a4a\glasses\samples\CameraExample\build\intermediates\pre-dexed\debug\samples-openCVLibrary320-unspecified_5af3a291d2e83e06f5cb6dc9ba1ee7040a3fa363.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="evsUICarousel-">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/CameraExample/build/intermediates/exploded-aar/evsUICarousel/res" />
+      <root url="jar://$PROJECT_DIR$/CameraExample/build/intermediates/exploded-aar/evsUICarousel/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
