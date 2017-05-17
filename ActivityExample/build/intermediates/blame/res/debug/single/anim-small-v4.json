@@ -1,10 +1,10 @@
 [
     {
-        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\ActivityExample\\build\\intermediates\\res\\merged\\debug\\anim-small-v4\\click_bk.xml",
-        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\ActivityExample\\src\\main\\res\\anim-small\\click_bk.xml"
+        "merged": "C:\\samples\\ActivityExample\\build\\intermediates\\res\\merged\\debug\\anim-small-v4\\click_fw.xml",
+        "source": "C:\\samples\\ActivityExample\\src\\main\\res\\anim-small\\click_fw.xml"
     },
     {
-        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\ActivityExample\\build\\intermediates\\res\\merged\\debug\\anim-small-v4\\click_fw.xml",
-        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\ActivityExample\\src\\main\\res\\anim-small\\click_fw.xml"
+        "merged": "C:\\samples\\ActivityExample\\build\\intermediates\\res\\merged\\debug\\anim-small-v4\\click_bk.xml",
+        "source": "C:\\samples\\ActivityExample\\src\\main\\res\\anim-small\\click_bk.xml"
     }
 ]

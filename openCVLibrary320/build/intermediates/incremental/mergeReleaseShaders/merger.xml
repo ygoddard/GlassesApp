@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="C:\android_work\project\ver1\jovisleetechnion-everysightsamples-ef77ff622a4a\glasses\samples\openCVLibrary320\src\main\shaders"/></dataSet><dataSet config="release"><source path="C:\android_work\project\ver1\jovisleetechnion-everysightsamples-ef77ff622a4a\glasses\samples\openCVLibrary320\src\release\shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="C:\samples\openCVLibrary320\src\main\shaders"/></dataSet><dataSet config="release"><source path="C:\samples\openCVLibrary320\src\release\shaders"/></dataSet></merger>

@@ -1,26 +1,26 @@
 [
     {
-        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\GPS_Example\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_games.png",
-        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\GPS_Example\\build\\intermediates\\exploded-aar\\evsUICarousel\\res\\drawable-xhdpi-v4\\ic_games.png"
+        "merged": "C:\\samples\\GPS_Example\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_close_app.png",
+        "source": "C:\\samples\\GPS_Example\\build\\intermediates\\exploded-aar\\evsUICarousel\\res\\drawable-xhdpi-v4\\ic_close_app.png"
     },
     {
-        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\GPS_Example\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_selection_mark.png",
-        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\GPS_Example\\build\\intermediates\\exploded-aar\\evsUICarousel\\res\\drawable-xhdpi-v4\\ic_selection_mark.png"
+        "merged": "C:\\samples\\GPS_Example\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_games.png",
+        "source": "C:\\samples\\GPS_Example\\build\\intermediates\\exploded-aar\\evsUICarousel\\res\\drawable-xhdpi-v4\\ic_games.png"
     },
     {
-        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\GPS_Example\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_open_inverse_app.png",
-        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\GPS_Example\\build\\intermediates\\exploded-aar\\evsUICarousel\\res\\drawable-xhdpi-v4\\ic_open_inverse_app.png"
+        "merged": "C:\\samples\\GPS_Example\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_back.png",
+        "source": "C:\\samples\\GPS_Example\\build\\intermediates\\exploded-aar\\evsUICarousel\\res\\drawable-xhdpi-v4\\icon_back.png"
     },
     {
-        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\GPS_Example\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_close_app.png",
-        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\GPS_Example\\build\\intermediates\\exploded-aar\\evsUICarousel\\res\\drawable-xhdpi-v4\\ic_close_app.png"
+        "merged": "C:\\samples\\GPS_Example\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_not_counter_background.png",
+        "source": "C:\\samples\\GPS_Example\\build\\intermediates\\exploded-aar\\evsUICarousel\\res\\drawable-xhdpi-v4\\ic_not_counter_background.png"
     },
     {
-        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\GPS_Example\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_not_counter_background.png",
-        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\GPS_Example\\build\\intermediates\\exploded-aar\\evsUICarousel\\res\\drawable-xhdpi-v4\\ic_not_counter_background.png"
+        "merged": "C:\\samples\\GPS_Example\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_selection_mark.png",
+        "source": "C:\\samples\\GPS_Example\\build\\intermediates\\exploded-aar\\evsUICarousel\\res\\drawable-xhdpi-v4\\ic_selection_mark.png"
     },
     {
-        "merged": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\GPS_Example\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_back.png",
-        "source": "C:\\android_work\\project\\ver1\\jovisleetechnion-everysightsamples-ef77ff622a4a\\glasses\\samples\\GPS_Example\\build\\intermediates\\exploded-aar\\evsUICarousel\\res\\drawable-xhdpi-v4\\icon_back.png"
+        "merged": "C:\\samples\\GPS_Example\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_open_inverse_app.png",
+        "source": "C:\\samples\\GPS_Example\\build\\intermediates\\exploded-aar\\evsUICarousel\\res\\drawable-xhdpi-v4\\ic_open_inverse_app.png"
     }
 ]
