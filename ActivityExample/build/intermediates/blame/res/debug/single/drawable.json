@@ -54,9 +54,5 @@
     {
         "merged": "C:\\samples\\ActivityExample\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_apps.png",
         "source": "C:\\samples\\ActivityExample\\build\\intermediates\\exploded-aar\\evsBase\\res\\drawable\\ic_apps.png"
-    },
-    {
-        "merged": "C:\\samples\\ActivityExample\\build\\intermediates\\res\\merged\\debug\\drawable\\waze.png",
-        "source": "C:\\samples\\ActivityExample\\src\\main\\res\\drawable\\waze.png"
     }
 ]
